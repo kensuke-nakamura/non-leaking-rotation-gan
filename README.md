@@ -1,8 +1,8 @@
+This repository is a placeholder for the code accompanying the paper, which is currently under review.
+
 # Revisiting the Training of Generative Adversarial Networks via Non-Leaking Rotational Data Augmentation
 
-This paper is currently under review.
-
-We present PyTorch implementations for the paper.
+We will present PyTorch implementations for the paper.
 
 ## Code overview
 
