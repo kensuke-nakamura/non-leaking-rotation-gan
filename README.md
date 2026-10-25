@@ -1,8 +1,6 @@
-# Non-Leaking Rotational Data Augmentation
+# Revisiting the Training of Generative Adversarial Networks via Non-Leaking Rotational Data Augmentation
 
-Official code for the paper:
-
-**Revisiting the Training of Generative Adversarial Networks via Non-Leaking Rotational Data Augmentation**
+Official code repository for the paper.
 
 This paper is currently under review.
 
