@@ -1,10 +1,8 @@
 # Revisiting the Training of Generative Adversarial Networks via Non-Leaking Rotational Data Augmentation
 
-Official code repository for the paper.
-
 This paper is currently under review.
 
-We present PyTorch implementations of "Data Augmentation for Generative Adversarial Networks via Non-Leaking Transformations".
+We present PyTorch implementations for the paper.
 
 ## Code overview
 
