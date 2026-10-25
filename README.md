@@ -1,6 +1,6 @@
-# Official Code of Non-Leaking Rotational Data Augmentation for GAN training
+# Non-Leaking Rotational Data Augmentation
 
-This repository accompanies the paper:
+Official code for the paper:
 
 **Revisiting the Training of Generative Adversarial Networks via Non-Leaking Rotational Data Augmentation**
 
