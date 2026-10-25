@@ -6,8 +6,33 @@ We will present PyTorch implementations for the paper.
 
 ## Code overview
 
-- `dcgan_and_gan/`: Our primary code using DCGAN and GAN, with `script_demo.sh` for a minimal demonstration and `script_full_experiment.sh` for the full experiments. This code was written for multiple experiments; see `wgangp_wgandiv_dragan/` for a simpler implementation.
-- `wgangp_wgandiv_dragan/`: Code for WGAN-gp, WGAN-div, and DRAGAN using ADA and our method. Use `script_experiment.sh` for the full experiments.
-- `synthetic_n-cyclic-rotation/`: Synthetic analysis of the convergence of our method.
-- `styleGAN2ada_baseline/`: Baseline StyleGAN2-ADA. See `script_stylegan2ada_baseline.sh`.
-- `styleGAN2ada_ours/`: StyleGAN2-ADA with our method. See `script_stylegan2ada_ours.sh`.
+### `dcgan_and_gan/`
+
+Our primary implementation using DCGAN and GAN, supporting multiple experiments.
+
+- Minimal demonstration: `script_demo.sh`
+- Full experiments: `script_full_experiment.sh`
+
+For a simpler implementation, see `wgangp_wgandiv_dragan/` below.
+
+### `wgangp_wgandiv_dragan/`
+
+WGAN-gp, WGAN-div, and DRAGAN using ADA and our method.
+
+- Full experiments: `script_experiment.sh`
+
+### `synthetic_n-cyclic-rotation/`
+
+Synthetic analysis of the convergence of our method.
+
+### `styleGAN2ada_baseline/`
+
+Baseline StyleGAN2-ADA.
+
+- Experiment script: `script_stylegan2ada_baseline.sh`
+
+### `styleGAN2ada_ours/`
+
+StyleGAN2-ADA with our method.
+
+- Experiment script: `script_stylegan2ada_ours.sh`
