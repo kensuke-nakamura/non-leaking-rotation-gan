@@ -1,4 +1,4 @@
-# Official Code of Non-Leaking Rotational Data Augmentation
+# Official Code of Non-Leaking Rotational Data Augmentation for GAN training
 
 This repository accompanies the paper:
 
