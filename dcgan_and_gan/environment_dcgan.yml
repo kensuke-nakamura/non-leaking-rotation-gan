@@ -1,0 +1,15 @@
+name: dcgan
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26.4
+  - scipy=1.11.4
+  - pillow=10.4.0
+  - matplotlib=3.8.4
+  - tqdm=4.66.5
+  - pip:
+      - --index-url https://download.pytorch.org/whl/cu121
+      - torch==2.3.1+cu121
+      - torchvision==0.18.1+cu121
